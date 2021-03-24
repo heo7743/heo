@@ -52,21 +52,21 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: Kangnam UV
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
-                visibility: true
+                visibility: false
 
 # Projects
 author_project_details:
               - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
+                project_title: Laser Application
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
                 visibility: true
               - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
+                project_title: ETC
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
                 visibility: true
@@ -89,7 +89,7 @@ flickr_username: johndoe
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: heo7743
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
